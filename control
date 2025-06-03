@@ -6,4 +6,5 @@ Description: Bring the iOS 15 beta Safari experience to newer iOS
 Maintainer: Nightwind
 Author: Nightwind
 Section: Tweaks
+Icon: https://github.com/NightwindDev/FloatingSafari/blob/main/Images/Icon.png?raw=true
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0)
