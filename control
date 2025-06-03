@@ -1,0 +1,9 @@
+Package: com.nightwind.floatingsafari
+Name: FloatingSafari
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Bring the iOS 15 beta Safari experience to newer iOS
+Maintainer: Nightwind
+Author: Nightwind
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0)
