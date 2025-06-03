@@ -8,7 +8,7 @@ Bring the iOS 15 beta Safari experience to newer iOS
 
 Before            |  After
 :-------------------------:|:-------------------------:
-<img width="200" src="Images/Before.png">  |  <img width="200" src="Images/After.png">
+<img width="200" src="Images/Before.PNG">  |  <img width="200" src="Images/After.PNG">
 
 ### How to install
 Head over to the [Releases](https://github.com/NightwindDev/FloatingSafari/releases) section and download the correct `.deb` for your device.
